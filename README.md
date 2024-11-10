@@ -7,7 +7,7 @@ A sophomore B.Tech CSE student.
 ## 🏆 GitHub Trophies
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&title=Commits&theme=flat" width="100" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&title=Commits&theme=flat" width="100" height = "100" />
   <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&title=Repositories&theme=flat" width="100" />
   <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&title=Stars&theme=flat" width="100" />
   <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&title=Followers&theme=flat" width="100" />
