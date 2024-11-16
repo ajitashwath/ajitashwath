@@ -11,8 +11,8 @@
 
 ## 🚀 Current Activities
 
-- 🎮 I'm currently working on Document Analysis using LLMs
-- 🌱 I'm currently learning Data Structures & Algorithms and involved in Android App Development
+- 🎮 I'm currently working on Document Analysis using LLMs and Object Detection using Tensorflow
+- 🌱 I'm currently learning Data Structures & Algorithms and involved in Machine Learning
 - 👨‍💻 All of my projects are available at (https://github.com/ajitashwathr10)
 - 💬 Ask me about Machine Learning, Python, C++ and R
 - 📫 How to reach me - (ajitashwathr18@gmail.com)
