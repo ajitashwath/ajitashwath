@@ -9,6 +9,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=flat&column=3&margin-w=15&margin-h=15" />
 </div>
 
+## 🏆 LeetCode Activity
+<p align = "center">
+  <img align = top flex-grow=1 src="https://leetcard.jacoblin.cool/introvertedcapybara?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+
 ## 🚀 Current Activities
 
 - 🎮 I'm currently working on Document Analysis using LLMs and Sorting Visualizer
@@ -73,12 +79,15 @@
 </div>
 
 ## 📊 GitHub Stats:
+<div align = "center">
+  <!-- ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitashwathr10&show_icons=true&theme=dark) -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=ajitashwathr10&show_icons=true&theme=dark">
+</div>
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitashwathr10&show_icons=true&theme=dark)
-## 📊 Statistics and Language Usage
+## 📊 Language Usage
 
 <!-- Language Usage Stats -->
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitashwathr10&layout=compact&theme=dark&hide_border=true&card_width=450&title_color=ffffff&text_color=ffffff&bg_color=0D1117&langs_count=6" alt="Most Used Languages" />
 </div>
 
