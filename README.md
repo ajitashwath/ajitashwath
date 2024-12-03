@@ -87,8 +87,8 @@
 ## 📊 Language Usage
 
 <!-- Language Usage Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitashwathr10&layout=compact&theme=dark&hide_border=true&card_width=450&title_color=ffffff&text_color=ffffff&bg_color=0D1117&langs_count=6" alt="Most Used Languages" />
+<div align = "center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitashwathr10&langs_count=10&title_co lor=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt = "Top Languages" />
 </div>
 
 <!-- GitHub Contribution Graph -->
