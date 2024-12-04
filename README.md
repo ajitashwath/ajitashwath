@@ -5,9 +5,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ajitashwathr10&color=brightgreen&style=flat&label=Profile+views)
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=flat&column=3&margin-w=15&margin-h=15" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=onedark" alt="ajitashwathr10"/></a> 
+</p>
+
 
 ## 🏆 LeetCode Activity
 <p align = "center">
