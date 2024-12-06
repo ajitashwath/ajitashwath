@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=onedark" alt="ajitashwathr10"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=radical" alt="ajitashwathr10"/></a> 
 </p>
 
 
