@@ -21,7 +21,7 @@
 - 🎮 I'm currently working on Sorting Visualizer
 - 🌱 I'm currently learning Data Structures & Algorithms and involved in Machine Learning
 - 👨‍💻 All of my projects are available at (https://github.com/ajitashwathr10)
-- 💬 Ask me about Machine Learning, Python, C++ and R
+- 💬 Ask me about Machine Learning and Python
 - 📫 How to reach me - (ajitashwathr18@gmail.com)
 
 ## 🌐 Connect With Me:
@@ -63,11 +63,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <p></p>
-  <h4>Learning Currently</h4>
+  <h4>Currently Learning</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </div>
