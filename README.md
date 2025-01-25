@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/ajitashwathr10/l" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <div align="left">
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/introvertedcapybara/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
