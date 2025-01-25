@@ -15,24 +15,11 @@
   <img align = top flex-grow=1 src="https://leetcard.jacoblin.cool/introvertedcapybara?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-
-## 🚀 Current Activities
-
-- 🎮 I'm currently working on Sorting Visualizer
-- 🌱 I'm currently learning Data Structures & Algorithms and involved in Machine Learning
-- 👨‍💻 All of my projects are available at (https://github.com/ajitashwathr10)
-- 💬 Ask me about Machine Learning and Python
-- 📫 How to reach me - (ajitashwathr18@gmail.com)
-
 ## 🌐 Connect With Me:
 <div align="left">
   <!-- Twitter -->
   <a href="https://x.com/ajitashwath_r" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <!-- Medium -->
-  <a href="your-medium-profile-url" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ajitashwathr10/l" target="blank">
@@ -46,14 +33,6 @@
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/introcapybara" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/ajitashwathr18" target="blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <!-- CodeForces -->
-  <a href="https://codeforces.com/profile/introvertedcapybara" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces" />
   </a>
 </div>
 
