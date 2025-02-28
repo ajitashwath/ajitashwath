@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ajit Ashwath.
 - 📚 A **CSE** sophomore
-- 🧑‍💻 **Pupil** in Codeforces<br>
+- 🧑‍💻 **Specialist** in Codeforces<br>
 - ⭐ **(3 star)** Coder in CodeChef<br>
 - 🌍 Top **19.35%** Global in LeetCode<br>
 
