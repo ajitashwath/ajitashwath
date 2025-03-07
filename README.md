@@ -5,7 +5,7 @@
 - 🌍 Top **19.35%** Global in LeetCode<br>
 
 ### 🚀 Current Work:
-- 🛸 Working on a drone system and some personal stuff<br>
+- 🛸 Working on some personal stuff<br>
 
 ### 📚 Learning:
 - 📈 Focusing on Machine Learning projects and DSA<br>
