@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Ajit Ashwath.
-- 📚 A **CSE** sophomore
+- 📚 A **CSE** sophomore & Passionate **ML Engineer**
 - 🧑‍💻 **Specialist** in Codeforces<br>
-- ⭐ **(3 star)** Coder in CodeChef<br>
+- ⭐ **3 star** in CodeChef<br>
 - 🌍 Top **19.35%** Global in LeetCode<br>
 
+
 ### 🚀 Current Work:
-- 🛸 Working on some personal stuff<br>
+- 🛸 Working on some personal projects<br>
+- 📝 Started some open source
 
 ### 📚 Learning:
 - 📈 Focusing on Machine Learning projects and DSA<br>
-- 📱 Started Android Development<br>
 
 ### 📝 Research:
 - Writing a Research Paper on **Federated Learning**
