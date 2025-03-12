@@ -10,10 +10,10 @@
 - 📝 Started some open source
 
 ### 📚 Learning:
-- 📈 Focusing on Machine Learning projects and DSA<br>
+- 📈 Focusing on ML projects and DSA<br>
 
 ### 📝 Research:
-- Writing a Research Paper on **Federated Learning**
+- Writing a Research Paper on **FL**
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajitashwathr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajitashwathr10) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajitashwathr18) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ajit-Ashwath-2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ajitashwathr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajitashwath_r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCAVna0kTkKTMaB9l-7-9eGQ) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajitashwathr18@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#white)](https://leetcode.com/u/introvertedcapybara/) [![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=Codeforces&logoColor=#white)](https://codeforces.com/profile/introvertedcapybara) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/introcapybara)
