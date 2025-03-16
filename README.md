@@ -2,7 +2,7 @@
 - 📚 A **CSE** sophomore & Passionate **ML Engineer**
 - 🧑‍💻 **Specialist** in Codeforces<br>
 - ⭐ **3 star** in CodeChef<br>
-- 🌍 Top **19.35%** Global in LeetCode<br>
+- 🌍 Top **19.39%** Global in LeetCode<br>
 
 <!--
 ### 🚀 Current Work:
