@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ajit Ashwath.
 - 📚 A **CSE** sophomore & Passionate **ML Engineer**
 - 🧑‍💻 **Specialist (1423)** in Codeforces<br>
-- ⭐ **3 star (1726)** in CodeChef<br>
+- ⭐ **3 star (1793)** in CodeChef<br>
 - 🌍 Top **19.39% (1629)** Global in LeetCode<br>
 
 <!--
