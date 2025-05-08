@@ -1,22 +1,4 @@
 # 👋 Hi, I’m Ajit Ashwath.
-- 📚 A **CSE** sophomore & Passionate **ML Engineer**
-- 🧑‍💻 **Specialist (1435)** in Codeforces<br>
-- ⭐ **4 star (1806)** in CodeChef<br>
-- 🌍 Top **19.42% (1629)** Global in LeetCode<br>
-
-<!--
-### 🚀 Current Work:
-- 🛸 Working on some personal projects<br>
-- 📝 Started some open source
-
-### 📚 Learning:
-- 📈 Focusing on ML projects and DSA<br>
-
-### 📝 Research:
-- Writing a Research Paper on **FL**
-
--->
-# 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajitashwathr18) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ajit-Ashwath-2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCAVna0kTkKTMaB9l-7-9eGQ) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#white)](https://leetcode.com/u/introvertedcapybara/) [![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=Codeforces&logoColor=#white)](https://codeforces.com/profile/introvertedcapybara) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/introcapybara)
 
 # 💻 Tech Stack:
