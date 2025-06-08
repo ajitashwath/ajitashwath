@@ -13,8 +13,17 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ajitashwath&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajitashwath&theme=midnight-purple&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ajitashwath&theme=midnight-purple&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitashwath&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<div align = "center">
+  <img width = "800" height = "220" src = "https://streak-stats.demolab.com?user=ajitashwath&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"></p>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitashwath&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajitashwath&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajitashwath&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajitashwath&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitashwath&theme=chartreuse_dark&utcOffset=8)
+</div>
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
