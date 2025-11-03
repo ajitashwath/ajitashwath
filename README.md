@@ -26,9 +26,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitashwath&theme=chartreuse_dark&utcOffset=8)
 </div>
 <!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ajitashwathr10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ajitashwathr10&icon=0&color=11)](https://visitcount.itsvg.in)
 -->
