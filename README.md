@@ -1,5 +1,5 @@
 # 👋 hi, good to see you!
-I build. Vibe code sometimes. I love summers. 
+I build. 
 
 ## Projects
 Here’s a collection of things I’ve worked on:
