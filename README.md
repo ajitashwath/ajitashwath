@@ -1,6 +1,7 @@
 # 👋 hi, good to see you!
-I build. 
+i build. 
 
+<!--
 ## Projects
 Here’s a collection of things I’ve worked on:
 - [**CallMind**](https://github.com/ajitashwath/callmind) - Intelligent call management system
@@ -28,4 +29,4 @@ Here’s a collection of things I’ve worked on:
 - [**Wallet Message**](https://github.com/ajitashwath/wallet-message) - Blockchain wallet messaging
 - [**Dynamic Threat Response**](https://github.com/ajitashwath/dynamic-threat-response) - Security threat detection system
 - [**Quartz Solar Dust**](https://github.com/ajitashwath/quartz-solar-dust-forecasting) - Solar dust prediction model
-
+-->
