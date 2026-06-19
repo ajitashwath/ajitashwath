@@ -21,5 +21,3 @@ mostly backend systems and applied ai & ml infrastructure. the kind of stuff tha
 **backend** &nbsp;`python` `go` `fastapi` `spring boot` `websockets`  
 **data** &nbsp;`postgresql` `mongodb` `redis` `mysql` 
 **infra** &nbsp;`docker` `kubernetes` `gcp` `aws` `linux`
-
-[ajitashwath.me](https://ajitashwath.me)
