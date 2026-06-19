@@ -1,7 +1,6 @@
 # i build.
 mostly backend systems and applied ai & ml infrastructure. the kind of stuff that runs in the background and either works or takes everything down with it.
 
----
 | project | what it does |
 |---|---|
 | [`callmind`](https://github.com/ajitashwath/callmind) | voice agent platform that handles phone calls end-to-end, routes across llms, transcribes in real time |
@@ -17,12 +16,10 @@ mostly backend systems and applied ai & ml infrastructure. the kind of stuff tha
 | [`scale-churn`](https://github.com/ajitashwath/scale-churn) | churn prediction pipeline on hadoop |
 | [`researcher`](https://github.com/ajitashwath/researcher) | multi-agent system with analyst, writer, reviewer agents generating full reports |
 
----
 
 **ml** &nbsp;`pytorch` `tensorflow` `jax` `cuda` `huggingface` `scikit-learn` `opencv` `langchain` `crewai`  
 **backend** &nbsp;`python` `go` `fastapi` `spring boot` `websockets`  
 **data** &nbsp;`postgresql` `mongodb` `redis` `mysql` 
 **infra** &nbsp;`docker` `kubernetes` `gcp` `aws` `linux`
 
----
 [ajitashwath.me](https://ajitashwath.me)
