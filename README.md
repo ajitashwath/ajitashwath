@@ -17,7 +17,7 @@ mostly backend systems and applied ai & ml infrastructure. the kind of stuff tha
 | [`researcher`](https://github.com/ajitashwath/researcher) | multi-agent system with analyst, writer, reviewer agents generating full reports |
 
 
-**ml** &nbsp;`pytorch` `tensorflow` `jax` `cuda` `huggingface` `scikit-learn` `opencv` `langchain` `crewai`  
-**backend** &nbsp;`python` `go` `fastapi` `spring boot` `websockets`  
+**ml** &nbsp;`pytorch` `tensorflow` `jax` `huggingface` `scikit-learn` `opencv` `langchain` `crewai`  
+**backend** &nbsp;`python` `go` `fastapi` `websockets`  
 **data** &nbsp;`postgresql` `mongodb` `redis` `mysql` 
 **infra** &nbsp;`docker` `kubernetes` `gcp` `aws` `linux`
